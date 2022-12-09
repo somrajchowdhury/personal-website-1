@@ -1,0 +1,24 @@
+.name-font {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+@media (max-width: 768px){
+    #main-text {
+        padding-top: 50px;
+    }
+
+    #pre-name-text {
+        text-align: center;
+    }
+
+    #name-text {
+        text-align: center;
+    }
+
+    #contact-icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
